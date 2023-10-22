@@ -1,5 +1,5 @@
 ## Working result
-[https://nmovchanskaya.github.io/ahj-homeworks-media/]
+https://nmovchanskaya.github.io/ahj-homeworks-media/
 
 ## Task
 
